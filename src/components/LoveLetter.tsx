@@ -18,7 +18,7 @@ I love you deeply, wildly, truly.
 Happy Girlfriend's Day, my beautiful blossom. 💖
 
 Yours, always,
-Tony`;
+`;
 
   return (
     <div className={`fixed inset-0 flex items-center justify-center p-4 transition-all duration-1000 ${
